@@ -1,1 +1,1 @@
-# rb-linked-list
+Creating a linked list in Ruby following The Odin Project.
